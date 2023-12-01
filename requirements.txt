@@ -1,0 +1,14 @@
+numpy==1.25.2
+pandas==2.0.1
+e2cnn==0.2.3
+Pillow==10.0.0
+matplotlib==3.7.2
+scipy==1.11.2
+prettytable==3.8.0
+scikit-learn==1.3.0
+pytorch_lightning==2.0.7
+tensorboard==2.14.0
+wandb==0.15.10
+seaborn==0.12.2
+opencv-python==4.8.1.78
+jupyter==1.0.0
