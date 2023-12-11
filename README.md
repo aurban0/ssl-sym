@@ -2,7 +2,7 @@
 
 [Alonso Urbano García](https://alonsourbano.com/), [David W.Romero](https://www.davidromero.ml/)
 
-[[`Paper`](https://openreview.net/forum?id=NTNLlEmx8Y)] [[`Experiments`](#Experiments)] [[`BibTeX`](#Citing-this-paper)]
+[[`Paper`](https://openreview.net/pdf?id=NTNLlEmx8Y)] [[`Experiments`](#Experiments)] [[`BibTeX`](#Citing-this-paper)]
 
 
 <p float="left">
