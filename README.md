@@ -1,8 +1,8 @@
 # Self-Supervised Detection of Perfect and Partial Input-Dependent Symmetries
 
-[Alonso Urbano García](https://alonsourbano.com/), [David W.Romero](https://www.davidromero.ml/)
+[Alonso Urbano](https://alonsourbano.com/), [David W.Romero](https://www.davidromero.ml/)
 
-[[`Paper`](https://openreview.net/pdf?id=NTNLlEmx8Y)] [[`Experiments`](#Experiments)] [[`BibTeX`](#Citing-this-paper)]
+[[`Paper`](https://arxiv.org/abs/2312.12223)] [[`Experiments`](#Experiments)] [[`BibTeX`](#Citing-this-paper)]
 
 
 <p float="left">
@@ -68,8 +68,8 @@ The code used to generate the synthetic MNIST variations to reproduce the experi
 To reproduce the experiments described in our paper, you can use the `run_experiment.sh` script provided.
 If required, set the execution permissions for the script using `chmod +x run_experiment.sh`.
 
-### Training SSL-Sym
-To train the SSL-Sym models from scratch, use the following syntax:
+### Training
+To train the models from scratch, use the following syntax:
 ```
 ./run_experiment.sh -ExperimentName
 ```
@@ -101,7 +101,14 @@ designed to load model checkpoints located under the `src/models` directory.
 The model is licensed under the [MIT license](LICENSE).
 
 # Citing this paper
-If you use SSL-Sym in your research, please use the following BibTeX entry:
+If you use our models in your research, please use the following BibTeX entry:
 ```
-TBA
+@misc{urbano2023selfsupervised,
+      title={Self-Supervised Detection of Perfect and Partial Input-Dependent Symmetries}, 
+      author={Alonso Urbano and David W. Romero},
+      year={2023},
+      eprint={2312.12223},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
 ```
